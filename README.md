@@ -1,29 +1,13 @@
-fancim - codestates 프로젝트
+# Platform Crawling Server
+파이썬, 장고를 이용하여 유튜브,트위치,아프리카의 셀럽들의 정보를 크롤링하여 데이터를 가공하여 DB에 저장합니다. 
 
-fancim BJ DATA 크롤링
+# back-end 사용 스택
+Python, Django, selenium
 
-이기훈, 이영희, 한단비, 황종옥
+# Crawler 실행 화면
 
-✨(sparkles): 새로운 컴포넌트, 기능 추가
+### crawler 실행
+![Crawling](https://media.giphy.com/media/JohI8SjDfRtcgsEFEQ/giphy.gif)
 
-📝(pencil): markdown 파일 등 수정
-
-🙈(see_no_evil): .gitignore 추가/수정
-
-💄(lipstick): UI 수정/추가
-
-🚧(construction): 작업 진행 중
-
-🎨(art): js 수정
-
-🔥(fire): 코드 삭제
-
-🐛(bug): 버그 수정
-
-➕(heavy_plus_sign): 디펜던시 추가
-
-➖(heavy_minus_sign): 디펜던시 삭제
-
-💩(poop): 앞으로 수정해야 할 나쁜 코드!
-
-👌(ok_hand): 코드 리뷰 후 코드 수정
+### 장고 admin 페이지에서 데이터가 들어갔는지 확인
+![Crawling after](https://media.giphy.com/media/RjkpkytBKej9CTiaMB/giphy.gif)
